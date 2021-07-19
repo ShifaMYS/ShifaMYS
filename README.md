@@ -1,5 +1,8 @@
-### Hi there 👋
-
+### Hi, I'm Shifa 👋
+- 🔭 I’m currently working on: Machine Learning
+- 🌱 I’m currently learning: MLOps
+- 😄 Pronouns: She/Her
+- 📫 Find me on LinkedIn: [ShifaMYS](http://www.linkedin.com/in/shifa-sanadi)
 <!--
 **ShifaMYS/ShifaMYS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
